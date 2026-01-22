@@ -5,7 +5,7 @@ Computer Science student entering senior year with a growing interest in machine
 - 🌱 I’m currently learning Database Management: SQL, schema design, normalization, indexing (MySQL)
 - 🤖 Interested in machine learning and data-driven roles
 - 📊 Curious about data analysis, model evaluation, and working with real-world datasets
--📌 Programming Languages: Python, C++ | Currently Learning: C#, C, Ruby
+- 📌 Programming Languages: Python, C++ | Currently Learning: C#, C, Ruby
 <!--
 **bell-rachel/bell-rachel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
